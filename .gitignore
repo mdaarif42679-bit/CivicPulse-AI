@@ -1,0 +1,7 @@
+civicpulse-ai/.env
+civicpulse-ai/node_modules/
+civicpulse-ai/client/dist/
+civicpulse-ai/server/data/db.json
+civicpulse-ai/server/data/*.tmp
+civicpulse-ai/server/uploads/*
+!civicpulse-ai/server/uploads/.gitkeep
